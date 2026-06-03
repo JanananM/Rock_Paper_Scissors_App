@@ -1,2 +1,2 @@
 # Rock Paper Scissors App
-Game built using Android Studio
+A game built using Android Studio to play rock paper scissors with an AI or another player.
